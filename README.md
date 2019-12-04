@@ -13,3 +13,9 @@ npm install
 Existe un pequeño ejercicio para probar la 
 autenticacion de Google en un Front-End básico pero 
 funcional.
+
+# For run this server
+
+```
+nodemon app.js
+```
